@@ -1,0 +1,73 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+section{
+    padding: 50px 0px;
+}
+#container_flex{
+    display: flex;
+}
+.half_width{
+    width: 45%;
+    padding-left: 5%;
+}
+.food_network img{
+    width: 80%;
+}
+.food_network h1{
+    font-size: 60px;
+    color: #6e5454;
+    font-weight: 700;
+    line-height: 130%;
+    margin-bottom: 30px;
+}
+.food_network p{
+    color: #828282;
+    font-size: 20px;
+    line-height: 160%;
+    font-weight: 500;
+    margin-bottom: 40px!important;
+}
+.food_network a{
+    padding: 10px 20px;
+    background-image:linear-gradient(#ffa500, #ff6347);
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+    border-radius: 25px;
+}
+.food_network .linear_color{
+    color: #FBA24F;
+}
+.about_me{
+    background-image: url("images/shapes/7.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about_me img{
+    width: 40%;
+}
+.about_me h2{
+    font-size: 40px;
+    color: #707070;
+    font-weight: 700;
+    line-height: 54%;
+    margin-bottom: 30px;
+}
+.about_me p{
+    font-size: 18px;
+    color: #18191f;
+    font-weight: 400;
+    line-height: 160%;
+    margin-bottom: 40px;
+}
+.about_me a{
+    padding: 10px 20px;
+    background-image:linear-gradient(#ffa500, #ff6347);
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+    border-radius: 25px;
+}
