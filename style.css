@@ -13,7 +13,7 @@ section{
     width: 45%;
     padding-left: 5%;
 }
-.food_network img{
+.food_img img{
     width: 90%;
 }
 .food_content{
@@ -55,7 +55,10 @@ section{
 .about_content{
     margin-top: 100px;
 }
-.about_me img{
+.about_img{
+    margin-bottom: -4px;
+}
+.about_img img{
     width: 50%;
     margin-left: 150px;
 }
